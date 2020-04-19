@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "344435909198",
+    "firebase_url": "https://task-scheduler-f228d.firebaseio.com",
+    "project_id": "task-scheduler-f228d",
+    "storage_bucket": "task-scheduler-f228d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344435909198:android:7bdb6703ffa8211e42191f",
+        "android_client_info": {
+          "package_name": "com.example.taskscheduler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "344435909198-abun0qhgno4unhambd40r9rmr6r6bod6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.taskscheduler",
+            "certificate_hash": "73efada831eb22d339617a093d397aed6a1b3dc2"
+          }
+        },
+        {
+          "client_id": "344435909198-s4ks2emhvek1pn9mue4c8op8mr5rtne6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2gvKnPsC1T7T53SNv0bucXr-Xn-sEFkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "344435909198-s4ks2emhvek1pn9mue4c8op8mr5rtne6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
